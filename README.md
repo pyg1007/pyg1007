@@ -6,7 +6,10 @@
 
 </div>
 
-### 👋 Hi there 👋
+## Android Mobile App Developer
+
+- Developers with passion and effort
+- Developers thinking about what better code is
 
 <!--
 **pyg1007/pyg1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
